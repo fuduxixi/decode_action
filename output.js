@@ -430,9 +430,9 @@ class _0x61a68c extends _0x1e527a {
   }
 }
 !(async () => {
-  if (!(await _0x54e8ac())) {
-    return;
-  }
+//  if (!(await _0x54e8ac())) {
+//    return;
+//  }
   _0x57726e.read_env(_0x61a68c);
   for (let _0x1682e4 of _0x57726e.userList) {
     await _0x1682e4.userTask();
